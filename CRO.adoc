@@ -1,0 +1,6 @@
+= Chief Retrieval Officer
+
+NOTE: Der aktuelle CRO ist die erste Person in der Liste. Sollte diese Person
+nicht anwesend sein, vertritt die nächste anwesende Person in der Liste den CRO.
+
+* Simon

@@ -1,0 +1,50 @@
+= Mafia Governance Platform
+
+ja moin
+
+:toc:
+
+== Rollen
+
+.Aktuelle Besetzung der Rollen:
+[%autowidth, cols=2*]
+|===
+|Mafia Governance Board
+|Erik, Felix, Lea, Mervin, Simon
+
+|Chairman of the Board
+|Erik
+
+|Chief Retrieval Officer
+|Siehe link:CRO.adoc[CRO]
+|===
+
+=== Mafia Governace Board (MGB)
+
+=== Chairman of the Board (COB)
+
+=== Change Advisory Board (CAB)
+
+=== Emergency Change Advisory Board (ECAB)
+
+=== Game Master (GM) / Spielleiter (SL)
+
+=== Chief Retrieval Officer (CRO)
+
+Nach jeder Runde werden alle Spielkarten an den SL zurückgegeben. Wenn die Anzahl dieser Karten nicht der Anzahl der Spieler entspricht, obliegt es dem CRO die fehlede(n) Karte(n) wiederzufinden. Die zugehörigen Spieler werden vom COB in die link:CRO.adoc[Liste der CROs] eingetragen, sodass der Spieler, welcher seine Karte als letztes zurückgegeben hat, der nächste CRO wird.
+
+== Vorgänge
+
+=== Change
+
+=== Emergency Change
+
+=== Enhancement
+
+=== Documentation
+
+=== Meta Change
+
+== Change Management
+
+== Continual Mafia Improvement
